@@ -1,0 +1,13 @@
+.chores{
+    color: rgb(40, 175, 107);
+    font-family:calibri;
+    font-size: 1.25em;
+}
+
+h3 {
+    text-decoration: underline;
+  }
+
+li{
+    font-style: italic;
+}

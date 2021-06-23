@@ -3,7 +3,12 @@ h3 {
 }
 
 img {
-
+   
+      margin: .3em;
+      width:  30%;
+      height: auto;
+      object-fit: cover;
+   
 }
 
 .photos {
