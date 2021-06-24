@@ -1,4 +1,12 @@
 .box {
     display: flex;
     padding: 10px;
+    
  }
+
+ .col{
+    border-style : solid dashed solid ;
+    background-color: rgb(247, 210, 131);
+}
+
+body {background-color: rgb(195, 247, 240);}
